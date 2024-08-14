@@ -137,7 +137,6 @@ i{
 .profile-pic {
     width: 100px;
     height: 100px;
-    border-radius: 50%;
     border: 5px solid #fff;
     position: relative;
     top: -20px;
@@ -182,11 +181,7 @@ i{
 }
 
 .menu {
-    display: flex;
-    justify-content: center;
-    background-color: #fff;
-    padding: 10px 0;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+   margin-top: 3%;
 }
 
 .menu button {
